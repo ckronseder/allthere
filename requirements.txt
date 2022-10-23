@@ -1,4 +1,3 @@
-asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1660605382950/work
 attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1659291887007/work
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
